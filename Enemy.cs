@@ -1,3 +1,4 @@
-﻿public class Enemy 
+﻿public class Enemy
 {
+    public int health;
 }
