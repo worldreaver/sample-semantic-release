@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/worldreaver/sample-semantic-release/compare/1.1.0...1.1.1) (2020-03-01)
+
+
+### Bug Fixes
+
+* bug fix ([7c62d5d](https://github.com/worldreaver/sample-semantic-release/commit/7c62d5df65b1afeea2ff2d8249bd61cfd9eaf6c9))
+
 # [1.1.0](https://github.com/worldreaver/sample-semantic-release/compare/1.0.0...1.1.0) (2020-03-01)
 
 
