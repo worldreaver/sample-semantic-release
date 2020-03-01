@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/worldreaver/sample-semantic-release/compare/1.1.1...1.1.2) (2020-03-01)
+
+
+### Performance Improvements
+
+* code change that improves performance ([3082d34](https://github.com/worldreaver/sample-semantic-release/commit/3082d348987a0cfbd424cb1c51d7de33d62acdee))
+
 ## [1.1.1](https://github.com/worldreaver/sample-semantic-release/compare/1.1.0...1.1.1) (2020-03-01)
 
 
