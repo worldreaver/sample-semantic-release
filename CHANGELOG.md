@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/worldreaver/sample-semantic-release/compare/1.0.0...1.1.0) (2020-03-01)
+
+
+### Features
+
+* new enemy was added ([9b2e5eb](https://github.com/worldreaver/sample-semantic-release/commit/9b2e5ebe78810f71cf5e65202cebe3c50ab47741))
+
 # 1.0.0 (2020-03-01)
 
 
