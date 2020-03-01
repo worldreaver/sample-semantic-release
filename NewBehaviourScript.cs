@@ -2,8 +2,5 @@
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    private void Start()
-    {
-        Debug.Log("Start!!!!");
-    }
+    private void Start() { Debug.Log("Start!!!!"); }
 }
