@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/worldreaver/sample-semantic-release/compare/1.1.3...1.2.0) (2020-03-15)
+
+
+### Bug Fixes
+
+* fix publish push tag upm ([f9ccc3c](https://github.com/worldreaver/sample-semantic-release/commit/f9ccc3cac2000b1009383dca991c4db69d6a93ac))
+
+
+### Features
+
+* add new script ([8cf4e85](https://github.com/worldreaver/sample-semantic-release/commit/8cf4e85dbbb3d70fe4fdb591526cdde45ca4a14f))
+
 ## [1.1.4](https://github.com/worldreaver/sample-semantic-release/compare/1.1.3...1.1.4) (2020-03-15)
 
 
