@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/worldreaver/sample-semantic-release/compare/1.2.0...1.2.1) (2020-03-15)
+
+
+### Bug Fixes
+
+* delete script ([fca439a](https://github.com/worldreaver/sample-semantic-release/commit/fca439aa70b2ac7c5e4a488b9ab7ea160f08c8c0))
+
 # [1.2.0](https://github.com/worldreaver/sample-semantic-release/compare/1.1.3...1.2.0) (2020-03-15)
 
 
