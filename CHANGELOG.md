@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/worldreaver/sample-semantic-release/compare/1.2.1...1.2.2) (2020-03-15)
+
+
+### Bug Fixes
+
+* publish tag upm ([9f546fc](https://github.com/worldreaver/sample-semantic-release/commit/9f546fc84369f116bf2f78ee0c57b5787046c937))
+
 ## [1.2.1](https://github.com/worldreaver/sample-semantic-release/compare/1.2.0...1.2.1) (2020-03-15)
 
 
